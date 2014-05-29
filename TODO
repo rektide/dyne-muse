@@ -1,0 +1,22 @@
+
+= IMPORTANT
+= this is the 0.9- older branch, work is ongoing on the 0.10 branch.
+= this release is just backporting fixes, new development is done
+= on the 0.10 branch, see dev.rastasoft.org
+
+
+
+- fix scheduler
+- xmlrpc api (see Eugen proposal)
+- more input channels
+- better gain on microphone input
+- pre-listening over multiple soundcards
+- speed setting over single channels
+
+see MuSE's API on http://muse.dyne.org/codedoc
+
+join the mailing list on muse@dyne.org
+
+we are sometimes on irc.freenode.net #dyne
+
+thanks for your interest in making it better!
